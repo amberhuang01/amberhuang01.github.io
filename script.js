@@ -47,9 +47,6 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // Run on load
     highlightNavigation();
-
-    // Mobile menu toggle (if you want to add a hamburger menu later)
-    // You can expand this for mobile functionality
 });
 
 // Optional: Add fade-in animation on scroll
